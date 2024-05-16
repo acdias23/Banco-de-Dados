@@ -1,6 +1,6 @@
 # Banco-de-Dados
 
-Ana Clara Dias Cruz RA:22.122.073-4
+Ana Clara Dias Cruz RA:22.122.073-4 <br>
 Sofia Fernandes França RA: 22.122.082-5
 
 ```
